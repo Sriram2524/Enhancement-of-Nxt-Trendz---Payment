@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Enhancement-of-Nxt-Trendz---Payment/static/css/main.2576c808.chunk.css",
+    "main.js": "/Enhancement-of-Nxt-Trendz---Payment/static/js/main.1fc6bb7a.chunk.js",
+    "main.js.map": "/Enhancement-of-Nxt-Trendz---Payment/static/js/main.1fc6bb7a.chunk.js.map",
+    "runtime-main.js": "/Enhancement-of-Nxt-Trendz---Payment/static/js/runtime-main.9ebd03c9.js",
+    "runtime-main.js.map": "/Enhancement-of-Nxt-Trendz---Payment/static/js/runtime-main.9ebd03c9.js.map",
+    "static/js/2.0e61d882.chunk.js": "/Enhancement-of-Nxt-Trendz---Payment/static/js/2.0e61d882.chunk.js",
+    "static/js/2.0e61d882.chunk.js.map": "/Enhancement-of-Nxt-Trendz---Payment/static/js/2.0e61d882.chunk.js.map",
+    "index.html": "/Enhancement-of-Nxt-Trendz---Payment/index.html",
+    "static/css/main.2576c808.chunk.css.map": "/Enhancement-of-Nxt-Trendz---Payment/static/css/main.2576c808.chunk.css.map",
+    "static/js/2.0e61d882.chunk.js.LICENSE.txt": "/Enhancement-of-Nxt-Trendz---Payment/static/js/2.0e61d882.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ebd03c9.js",
+    "static/js/2.0e61d882.chunk.js",
+    "static/css/main.2576c808.chunk.css",
+    "static/js/main.1fc6bb7a.chunk.js"
+  ]
+}
